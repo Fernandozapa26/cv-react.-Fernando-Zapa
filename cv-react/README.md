@@ -1,3 +1,34 @@
+
+# CV React - Fernando Zapa
+
+Proyecto desarrollado en React + Vite para construir un Currículum Vitae dinámico utilizando:
+
+- Renderizado condicional
+- Renderizado de listas con map()
+- Componentes reutilizables
+- Estilos dinámicos según tecnología
+
+## Instrucciones para ejecutar el proyecto
+
+1. Clonar el repositorio
+2. Abrir la carpeta del proyecto
+3. Instalar dependencias:
+
+
+### Vista final del proyecto (Pantalla 1)
+![Vista final del proyecto](./public/captura1.png)
+
+### Vista final del proyecto (Pantalla 2)
+![Vista final del proyecto](./public/captura2.png)
+
+### Vista final del proyecto (Pantalla 3)
+![Vista final del proyecto](./public/captura3.png)
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
